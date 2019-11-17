@@ -1,0 +1,25 @@
+Script
+Dia 1 intro:
+Welkom dames en heren, wij zijn Energiemaat!
+
+Dia 2 “Wat is Energiemaat?”:
+Energiemaat is een bedrijf dat zich focust op duurzaamheid van energie door middel van een applicatie.
+
+Dia 3 “Wat is ons motief?”:
+Ons eerste doel is om Gemeente Hoorn 100% energie-neutraal te maken voor 2030 en meer gedeelde voorzieningen aan te bieden.
+
+Dia 4 “Ons eerste project”:
+Wij hebben gekozen uit casus 4B (Esbaco Marsepeinfabriek),
+Met een applicatie maken wij het bedrijf bewuster van hun energieverbruik, hoe ze het kunnen verminderen en veel meer.
+
+Dia 5 “Mock-ups tonen”:
+Hier zijn een aantal voorbeelden te zien, van Energiemaat op de website en de applicatie. 
+Steekwoorden: 
+•	Statistieken energieverbruik per uur mobile/web
+•	Todo-list met tips
+
+Dia 6	“Slot”:
+Dit is ons idee en wij zijn Energiemaat
+
+Dia 7 “Vragen?”:
+Zijn er nog vragen? Niet allemaal te gelijk.
